@@ -15,6 +15,6 @@ download chromedriver or firefoxdriver according to your browser version
     
 ## Screenshots
 
-![code.png](Screenshot of code)
+![code](code.png)
 
   
